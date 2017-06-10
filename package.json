@@ -1,0 +1,22 @@
+{
+  "name": "wesleyazevedo",
+  "version": "1.0.0",
+  "description": "portfolio for wesley azevedo",
+  "main": "app.js",
+  "scripts": {
+    	"start": "node app.js"  
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nolderosw/wesleyazevedo.git"
+  },
+  "author": "wesley azevedo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nolderosw/wesleyazevedo/issues"
+  },
+  "homepage": "https://github.com/nolderosw/wesleyazevedo#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
