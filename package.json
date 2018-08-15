@@ -4,8 +4,8 @@
   "description": "portfolio for wesley azevedo",
   "main": "app.js",
   "scripts": {
-    	"start": "node app.js"  
-},
+    "start": "node app.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/nolderosw/wesleyazevedo.git"
@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/nolderosw/wesleyazevedo#readme",
   "dependencies": {
-    "express": "^4.15.3"
+    "express": "^4.15.3",
+    "lightbox2": "^2.10.0"
   }
 }
